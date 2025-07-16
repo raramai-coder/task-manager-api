@@ -12,7 +12,7 @@ A simple REST API built with Node.js and Express for managing tasks in a contact
 2. **Run the Application**:
    - For production:
      ```bash
-     npm start A simple REST API built with Node.js and Express for managing tasks in a contact centre.
+     npm start 
      ```
    - For development (with auto-restart on file changes):
      ```bash
